@@ -1,0 +1,119 @@
+site_name: Xiaohongshu Aesthetics Guide
+site_description: "Make every post beautiful — cover design, color, imagery, copywriting, and visual identity"
+site_author: "Producer Beauty"
+repo_url: https://github.com/hideak1/aesthetic_rednote
+repo_name: hideak1/aesthetic_rednote
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - announce.dismiss
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font: false
+  icon:
+    logo: material/palette-outline
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          name: 中文
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - getting-started/index.md
+  - "Part 1: Cover Design":
+    - part1_cover_design/index.md
+    - "1.1 Composition": part1_cover_design/composition.md
+    - "1.2 Typography": part1_cover_design/typography.md
+    - "1.3 Layout": part1_cover_design/layout.md
+  - "Part 2: Color":
+    - part2_color/index.md
+    - "2.1 Color Theory": part2_color/theory.md
+    - "2.2 Style Palettes": part2_color/palettes.md
+    - "2.3 Matching Rules": part2_color/matching.md
+    - "2.4 Tools & Practice": part2_color/tools.md
+  - "Part 3: Imagery":
+    - part3_imagery/index.md
+    - "3.1 Selection": part3_imagery/selection.md
+    - "3.2 Editing": part3_imagery/editing.md
+    - "3.3 Arrangement": part3_imagery/arrangement.md
+    - "3.4 Cover Types": part3_imagery/types.md
+  - "Part 4: Copywriting":
+    - part4_copywriting/index.md
+    - "4.1 Titles": part4_copywriting/titles.md
+    - "4.2 Body Text": part4_copywriting/body.md
+    - "4.3 Keywords": part4_copywriting/keywords.md
+  - "Part 5: Visual Identity":
+    - part5_visual_identity/index.md
+    - "5.1 Consistency": part5_visual_identity/consistency.md
+    - "5.2 Finding Your Style": part5_visual_identity/style_finding.md
+    - "5.3 Evolution": part5_visual_identity/evolution.md
+  - "Part 6: Style by Category":
+    - part6_category_styles/index.md
+    - "6.1 Tech & Coding": part6_category_styles/tech.md
+    - "6.2 Food & Cafe": part6_category_styles/food.md
+    - "6.3 Travel": part6_category_styles/travel.md
+    - "6.4 Fashion & Beauty": part6_category_styles/fashion.md
+  - "Part 7: Video Aesthetics":
+    - part7_video/index.md
+    - "7.1 Video Covers": part7_video/covers.md
+    - "7.2 Editing Rhythm": part7_video/rhythm.md
+    - "7.3 Text & Subtitles": part7_video/subtitles.md

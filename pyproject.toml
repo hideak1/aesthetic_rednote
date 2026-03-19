@@ -1,0 +1,12 @@
+[project]
+name = "producer-beauty"
+version = "0.1.0"
+description = "Xiaohongshu Aesthetics Guide — make every post beautiful"
+requires-python = ">=3.10,<3.13"
+license = { text = "MIT" }
+
+dependencies = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+    "mkdocs-static-i18n>=1.2.0",
+]
