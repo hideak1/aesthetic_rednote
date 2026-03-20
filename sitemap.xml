@@ -6,6 +6,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
     </url>
     <url>
         <loc>Nonegetting-started/</loc>
@@ -13,6 +14,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonegetting-started/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/getting-started/"/>
     </url>
     <url>
         <loc>Nonepart1_cover_design/composition/</loc>
@@ -20,6 +22,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/composition/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/composition/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/composition/"/>
     </url>
     <url>
         <loc>Nonepart1_cover_design/</loc>
@@ -27,6 +30,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/"/>
     </url>
     <url>
         <loc>Nonepart1_cover_design/layout/</loc>
@@ -34,6 +38,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/layout/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/layout/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/layout/"/>
     </url>
     <url>
         <loc>Nonepart1_cover_design/typography/</loc>
@@ -41,6 +46,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/typography/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/typography/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/typography/"/>
     </url>
     <url>
         <loc>Nonepart2_color/</loc>
@@ -48,6 +54,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/"/>
     </url>
     <url>
         <loc>Nonepart2_color/matching/</loc>
@@ -55,6 +62,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/matching/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/matching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/matching/"/>
     </url>
     <url>
         <loc>Nonepart2_color/palettes/</loc>
@@ -62,6 +70,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/palettes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/palettes/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/palettes/"/>
     </url>
     <url>
         <loc>Nonepart2_color/theory/</loc>
@@ -69,6 +78,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/theory/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/theory/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/theory/"/>
     </url>
     <url>
         <loc>Nonepart2_color/tools/</loc>
@@ -76,6 +86,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/tools/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/tools/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/tools/"/>
     </url>
     <url>
         <loc>Nonepart3_imagery/arrangement/</loc>
@@ -83,6 +94,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/arrangement/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/arrangement/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/arrangement/"/>
     </url>
     <url>
         <loc>Nonepart3_imagery/editing/</loc>
@@ -90,6 +102,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/editing/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/editing/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/editing/"/>
     </url>
     <url>
         <loc>Nonepart3_imagery/</loc>
@@ -97,6 +110,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/"/>
     </url>
     <url>
         <loc>Nonepart3_imagery/selection/</loc>
@@ -104,6 +118,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/selection/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/selection/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/selection/"/>
     </url>
     <url>
         <loc>Nonepart3_imagery/types/</loc>
@@ -111,6 +126,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/types/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/types/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/types/"/>
     </url>
     <url>
         <loc>Nonepart4_copywriting/body/</loc>
@@ -118,6 +134,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/body/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/body/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/body/"/>
     </url>
     <url>
         <loc>Nonepart4_copywriting/</loc>
@@ -125,6 +142,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/"/>
     </url>
     <url>
         <loc>Nonepart4_copywriting/keywords/</loc>
@@ -132,6 +150,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/keywords/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/keywords/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/keywords/"/>
     </url>
     <url>
         <loc>Nonepart4_copywriting/titles/</loc>
@@ -139,6 +158,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/titles/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/titles/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/titles/"/>
     </url>
     <url>
         <loc>Nonepart5_visual_identity/consistency/</loc>
@@ -146,6 +166,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/consistency/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/consistency/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/consistency/"/>
     </url>
     <url>
         <loc>Nonepart5_visual_identity/evolution/</loc>
@@ -153,6 +174,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/evolution/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/evolution/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/evolution/"/>
     </url>
     <url>
         <loc>Nonepart5_visual_identity/</loc>
@@ -160,6 +182,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/"/>
     </url>
     <url>
         <loc>Nonepart5_visual_identity/style_finding/</loc>
@@ -167,6 +190,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/style_finding/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/style_finding/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/style_finding/"/>
     </url>
     <url>
         <loc>Nonepart6_category_styles/fashion/</loc>
@@ -174,6 +198,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/fashion/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/fashion/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/fashion/"/>
     </url>
     <url>
         <loc>Nonepart6_category_styles/food/</loc>
@@ -181,6 +206,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/food/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/food/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/food/"/>
     </url>
     <url>
         <loc>Nonepart6_category_styles/</loc>
@@ -188,6 +214,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/"/>
     </url>
     <url>
         <loc>Nonepart6_category_styles/tech/</loc>
@@ -195,6 +222,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/tech/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/tech/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/tech/"/>
     </url>
     <url>
         <loc>Nonepart6_category_styles/travel/</loc>
@@ -202,6 +230,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/travel/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/travel/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/travel/"/>
     </url>
     <url>
         <loc>Nonepart7_video/covers/</loc>
@@ -209,6 +238,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/covers/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/covers/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/covers/"/>
     </url>
     <url>
         <loc>Nonepart7_video/</loc>
@@ -216,6 +246,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/"/>
     </url>
     <url>
         <loc>Nonepart7_video/rhythm/</loc>
@@ -223,6 +254,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/rhythm/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/rhythm/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/rhythm/"/>
     </url>
     <url>
         <loc>Nonepart7_video/subtitles/</loc>
@@ -230,6 +262,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/subtitles/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/subtitles/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/subtitles/"/>
     </url>
     <url>
         <loc>Nonesuperpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/</loc>
@@ -237,6 +270,7 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonesuperpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
     </url>
     <url>
         <loc>Nonesuperpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/</loc>
@@ -244,12 +278,14 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonesuperpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
     </url>
     <url>
         <loc>Noneen/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
     </url>
     <url>
@@ -257,6 +293,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/getting-started/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonegetting-started/"/>
     </url>
     <url>
@@ -264,6 +301,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/composition/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/composition/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/composition/"/>
     </url>
     <url>
@@ -271,6 +309,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/"/>
     </url>
     <url>
@@ -278,6 +317,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/layout/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/layout/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/layout/"/>
     </url>
     <url>
@@ -285,6 +325,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/typography/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/typography/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/typography/"/>
     </url>
     <url>
@@ -292,6 +333,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/"/>
     </url>
     <url>
@@ -299,6 +341,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/matching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/matching/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/matching/"/>
     </url>
     <url>
@@ -306,6 +349,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/palettes/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/palettes/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/palettes/"/>
     </url>
     <url>
@@ -313,6 +357,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/theory/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/theory/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/theory/"/>
     </url>
     <url>
@@ -320,6 +365,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/tools/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/tools/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/tools/"/>
     </url>
     <url>
@@ -327,6 +373,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/arrangement/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/arrangement/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/arrangement/"/>
     </url>
     <url>
@@ -334,6 +381,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/editing/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/editing/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/editing/"/>
     </url>
     <url>
@@ -341,6 +389,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/"/>
     </url>
     <url>
@@ -348,6 +397,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/selection/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/selection/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/selection/"/>
     </url>
     <url>
@@ -355,6 +405,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/types/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/types/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/types/"/>
     </url>
     <url>
@@ -362,6 +413,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/body/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/body/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/body/"/>
     </url>
     <url>
@@ -369,6 +421,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/"/>
     </url>
     <url>
@@ -376,6 +429,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/keywords/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/keywords/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/keywords/"/>
     </url>
     <url>
@@ -383,6 +437,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/titles/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/titles/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/titles/"/>
     </url>
     <url>
@@ -390,6 +445,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/consistency/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/consistency/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/consistency/"/>
     </url>
     <url>
@@ -397,6 +453,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/evolution/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/evolution/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/evolution/"/>
     </url>
     <url>
@@ -404,6 +461,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/"/>
     </url>
     <url>
@@ -411,6 +469,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/style_finding/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/style_finding/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/style_finding/"/>
     </url>
     <url>
@@ -418,6 +477,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/fashion/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/fashion/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/fashion/"/>
     </url>
     <url>
@@ -425,6 +485,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/food/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/food/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/food/"/>
     </url>
     <url>
@@ -432,6 +493,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/"/>
     </url>
     <url>
@@ -439,6 +501,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/tech/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/tech/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/tech/"/>
     </url>
     <url>
@@ -446,6 +509,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/travel/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/travel/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/travel/"/>
     </url>
     <url>
@@ -453,6 +517,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/covers/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/covers/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/covers/"/>
     </url>
     <url>
@@ -460,6 +525,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/"/>
     </url>
     <url>
@@ -467,6 +533,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/rhythm/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/rhythm/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/rhythm/"/>
     </url>
     <url>
@@ -474,6 +541,7 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/subtitles/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/subtitles/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/subtitles/"/>
     </url>
     <url>
@@ -481,12 +549,294 @@
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonesuperpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
     </url>
     <url>
         <loc>Noneen/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/</loc>
         <lastmod>2026-03-20</lastmod>
         <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonesuperpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
+    </url>
+    <url>
+        <loc>Noneja/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="None"/>
+    </url>
+    <url>
+        <loc>Noneja/getting-started/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonegetting-started/"/>
+    </url>
+    <url>
+        <loc>Noneja/part1_cover_design/composition/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/composition/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/composition/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/composition/"/>
+    </url>
+    <url>
+        <loc>Noneja/part1_cover_design/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/"/>
+    </url>
+    <url>
+        <loc>Noneja/part1_cover_design/layout/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/layout/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/layout/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/layout/"/>
+    </url>
+    <url>
+        <loc>Noneja/part1_cover_design/typography/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part1_cover_design/typography/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part1_cover_design/typography/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart1_cover_design/typography/"/>
+    </url>
+    <url>
+        <loc>Noneja/part2_color/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/"/>
+    </url>
+    <url>
+        <loc>Noneja/part2_color/matching/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/matching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/matching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/matching/"/>
+    </url>
+    <url>
+        <loc>Noneja/part2_color/palettes/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/palettes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/palettes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/palettes/"/>
+    </url>
+    <url>
+        <loc>Noneja/part2_color/theory/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/theory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/theory/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/theory/"/>
+    </url>
+    <url>
+        <loc>Noneja/part2_color/tools/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part2_color/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part2_color/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart2_color/tools/"/>
+    </url>
+    <url>
+        <loc>Noneja/part3_imagery/arrangement/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/arrangement/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/arrangement/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/arrangement/"/>
+    </url>
+    <url>
+        <loc>Noneja/part3_imagery/editing/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/editing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/editing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/editing/"/>
+    </url>
+    <url>
+        <loc>Noneja/part3_imagery/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/"/>
+    </url>
+    <url>
+        <loc>Noneja/part3_imagery/selection/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/selection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/selection/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/selection/"/>
+    </url>
+    <url>
+        <loc>Noneja/part3_imagery/types/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part3_imagery/types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part3_imagery/types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart3_imagery/types/"/>
+    </url>
+    <url>
+        <loc>Noneja/part4_copywriting/body/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/body/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/body/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/body/"/>
+    </url>
+    <url>
+        <loc>Noneja/part4_copywriting/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/"/>
+    </url>
+    <url>
+        <loc>Noneja/part4_copywriting/keywords/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/keywords/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/keywords/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/keywords/"/>
+    </url>
+    <url>
+        <loc>Noneja/part4_copywriting/titles/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part4_copywriting/titles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part4_copywriting/titles/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart4_copywriting/titles/"/>
+    </url>
+    <url>
+        <loc>Noneja/part5_visual_identity/consistency/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/consistency/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/consistency/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/consistency/"/>
+    </url>
+    <url>
+        <loc>Noneja/part5_visual_identity/evolution/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/evolution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/evolution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/evolution/"/>
+    </url>
+    <url>
+        <loc>Noneja/part5_visual_identity/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/"/>
+    </url>
+    <url>
+        <loc>Noneja/part5_visual_identity/style_finding/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part5_visual_identity/style_finding/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part5_visual_identity/style_finding/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart5_visual_identity/style_finding/"/>
+    </url>
+    <url>
+        <loc>Noneja/part6_category_styles/fashion/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/fashion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/fashion/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/fashion/"/>
+    </url>
+    <url>
+        <loc>Noneja/part6_category_styles/food/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/food/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/food/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/food/"/>
+    </url>
+    <url>
+        <loc>Noneja/part6_category_styles/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/"/>
+    </url>
+    <url>
+        <loc>Noneja/part6_category_styles/tech/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/tech/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/tech/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/tech/"/>
+    </url>
+    <url>
+        <loc>Noneja/part6_category_styles/travel/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part6_category_styles/travel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part6_category_styles/travel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart6_category_styles/travel/"/>
+    </url>
+    <url>
+        <loc>Noneja/part7_video/covers/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/covers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/covers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/covers/"/>
+    </url>
+    <url>
+        <loc>Noneja/part7_video/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/"/>
+    </url>
+    <url>
+        <loc>Noneja/part7_video/rhythm/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/rhythm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/rhythm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/rhythm/"/>
+    </url>
+    <url>
+        <loc>Noneja/part7_video/subtitles/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/part7_video/subtitles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/part7_video/subtitles/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonepart7_video/subtitles/"/>
+    </url>
+    <url>
+        <loc>Noneja/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/superpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonesuperpowers/plans/2026-03-19-xiaohongshu-aesthetics-guide/"/>
+    </url>
+    <url>
+        <loc>Noneja/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/</loc>
+        <lastmod>2026-03-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/superpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonesuperpowers/specs/2026-03-19-xiaohongshu-aesthetics-guide-design/"/>
     </url>

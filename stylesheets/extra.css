@@ -197,7 +197,7 @@ input {
 .stats-bar .stat-label { font-size: 0.6875rem !important; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 500; }
 
 /* ---- Grid Cards ---- */
-.grid-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 0.625rem; margin: 1rem 0; }
+.grid-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 0.625rem; margin: 1rem 0; }
 .grid-cards .card { border: 1px solid var(--border-color); border-radius: 8px; padding: 1rem; background: var(--md-default-bg-color); transition: border-color 0.15s ease, transform 0.2s ease, box-shadow 0.2s ease; text-decoration: none !important; color: inherit !important; display: block; }
 .grid-cards .card:hover {
   border-color: var(--text-secondary);
